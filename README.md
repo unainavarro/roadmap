@@ -29,7 +29,20 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Fundamentos</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/02-instalacion.md">Instalación y configuración</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/03-glosario.md">Glosario(básico)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/04-palabras_reservadas.md">Palabras reservadas(básicas)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/05-compilacion_ejecucion.md">Compilación y ejecución</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/06-biblioteca_principal.md">Biblioteca principal</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/07-convencion_de_nombres.md">Convención de nombres</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/08-entrada_principal.md">Entrada principal</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/09-variables.md">Variables</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/10-constantes.md">Constantes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/11-tipos_de_datos.md">Tipos de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/12-conversion_de_tipos.md">Conversion de tipos(Casting)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/13-operadores.md">Operadores</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/01-fundamentos/14-comentarios.md">Comentarios</a></li>
   </ul>  
 </details>
 <!-- [FIN]Fundamentos -->
