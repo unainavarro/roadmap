@@ -60,24 +60,24 @@ Un IDE facilita la escritura de código proporcionando resaltado de sintaxis, de
 
 ### IntelliJ IDEA
 
-Descarga IntelliJ IDEA desde JetBrains.
+⬇️Descarga IntelliJ IDEA desde JetBrains.
 
-Instala y configura el JDK en File > Project Structure > SDKs.
+💿Instala y configura el JDK en File > Project Structure > SDKs.
 
 ### Eclipse
 
-Descarga Eclipse desde eclipse.org.
+⬇️Descarga Eclipse desde eclipse.org.
 
-Instala y abre Eclipse, luego configura el JDK en Preferences > Java > Installed JREs.
+💿Instala y abre Eclipse, luego configura el JDK en Preferences > Java > Installed JREs.
 
 ### NetBeans
 
-Descarga NetBeans desde netbeans.apache.org.
+⬇️Descarga NetBeans desde netbeans.apache.org.
 
-Instálalo y selecciona el JDK durante la configuración inicial.
+💿Instálalo y selecciona el JDK durante la configuración inicial.
 
 ### Visual Studio Code
 
-Descarga VS Code desde code.visualstudio.com.
+⬇️Descarga VS Code desde code.visualstudio.com.
 
-Instala la extensión **Java Extension Pack**.
+💿Instala la extensión **Java Extension Pack**.
