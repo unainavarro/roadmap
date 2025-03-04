@@ -20,6 +20,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
   - [🧩 Herramientas Complementarias](#-herramientas-complementarias)
 - [🧪 Pruebas](#-pruebas)
 - [🧑‍💻 Ejercicios](#-ejercicios)
+  - [W3resources](#w3resources)
 
 ## 📚 Apuntes
 
@@ -890,5 +891,18 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 ---
 
 ## 🧑‍💻 Ejercicios
+
+### W3resources
+
+<!-- Java -->
+<details>
+  <summary>Java</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/basic">Basic</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/type">Type</a></li>
+    <li><a href=""></a></li>
+  </ul>  
+</details>
+<!-- [FIN]Java -->
 
 ---
