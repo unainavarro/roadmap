@@ -6,8 +6,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 
 <h2>🔎Qué encontraras</h3>
 
-- En el apartado de **apuntes** encontraras teoría con ejemplos en markdown.
-- En el apartado de **prueba** encontraras un área de prueba sobre la teoría y algún "capstone"(mini-proyectos finales de bloque).
+- En el apartado de **apuntes** encontraras teoría con ejemplos en formato markdown.
 - En **ejercicios**, son ejercicios de diferentes web que voy viendo por internet.
 
 <h2>📑 Contenido</h2>
@@ -18,7 +17,6 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
   - [🌐 Web](#-web)
   - [🤿 Profundizando](#-profundizando)
   - [🧩 Herramientas Complementarias](#-herramientas-complementarias)
-- [🧪 Pruebas](#-pruebas)
 - [🧑‍💻 Ejercicios](#-ejercicios)
   - [W3resources](#w3resources)
 
@@ -888,10 +886,6 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 
 ---
 
-## 🧪 Pruebas
-
----
-
 ## 🧑‍💻 Ejercicios
 
 ### W3resources
@@ -900,9 +894,15 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>Java</summary>
   <ul>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/basic">Basic</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/type">Type</a></li>
-    <li><a href=""></a></li>
+    <li><a href="">Fundamentos</a></li>
+    <li><a href="">Control de flujo</a></li>
+    <li><a href="">Métodos</a></li>
+    <li><a href="">Arrays</a></li>
+    <li><a href="">POO</a></li>
+    <li><a href="">Clases integradas</a></li>
+    <li><a href="">Colecciones</a></li>
+    <li><a href="">Lambdas,Stream,Threads,Generic,Recursividad...</a></li>
+    <li><a href="">Bonus</a></li>
   </ul>  
 </details>
 <!-- [FIN]Java -->
