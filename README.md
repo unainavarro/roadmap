@@ -1,6 +1,6 @@
 <h1 align='center'>Roadmap 🗺️</h1>
 
-¡Bienvenido/a a mi roadmap de Java☕ full-stack!
+¡Bienvenido/a a mi roadmap de Java☕ "full-stack"!
 Este repositorio está diseñado para repasar y mejorar habilidades en front y back(tomando Java como lenguaje principal) a través de una serie de teoría y recursos organizados.
 El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end. El roadmap esta separada en módulos, de tal manera que si no te interesa Java puedas acceder solo a la parte Web(HTML,CSS,JavaScript...) o en caso contrario saltarse dicha parte.
 
@@ -61,7 +61,10 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Control de flujo</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/03-control-de-flujo/01-condicionales.md">Condicionales</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/03-control-de-flujo/02-bucles.md">Bucles</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/03-control-de-flujo/03-continue_break_return.md">Continue, Break y Return</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/03-control-de-flujo/04-excepciones.md">Excepciones</a></li>
   </ul>  
 </details>
 <!-- [FIN]Control de flujo -->
@@ -894,7 +897,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>Java</summary>
   <ul>
-    <li><a href="">Fundamentos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/fundamentos">Fundamentos</a></li>
     <li><a href="">Control de flujo</a></li>
     <li><a href="">Métodos</a></li>
     <li><a href="">Arrays</a></li>

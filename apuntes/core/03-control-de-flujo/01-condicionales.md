@@ -8,7 +8,7 @@
 - [Sentencia if-else if-else](#sentencia-if-else-if-else)
 - [Operador Ternario](#operador-ternario)
 - [Sentencia switch](#sentencia-switch)
-- [switch mejorado](#switch-mejorado)
+- [Switch mejorado](#switch-mejorado)
 
 ## Condicionales
 
@@ -115,7 +115,7 @@ switch (dia) {
 // Salida: Miércoles
 ```
 
-## switch mejorado
+## Switch mejorado
 
 A partir de Java 14, `switch` permite eliminar la necesidad de `break` y permitiendo múltiples valores en un solo caso.
 
