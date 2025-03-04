@@ -52,7 +52,9 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Entrada y Salida (Básico)</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/02-entradas-salidas/01-imprimir_datos.md">Imprimir datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/02-entradas-salidas/02-formatear_salida.md">Formatear salida</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/02-entradas-salidas/03-scanner.md">Scanner</a></li>
   </ul>  
 </details>
 <!-- [FIN]Entrada y Salida (Básico) -->
