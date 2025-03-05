@@ -73,7 +73,14 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Métodos</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/01-metodos.md">Métodos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/02-tipos_de_retorno.md">Tipos de retorno</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/03-parametros.md">Parámetros</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/04-modificadores_de_acceso.md">Modificadores de acceso</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/05-this.md">This</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/06-tipos_de_metodos.md">Tipos de métodos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/07-sobrecarga.md">Sobrecarga</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/08-sobrescritura.md">Sobrescritura</a></li>
   </ul>  
 </details>
 <!-- [FIN]Métodos -->
