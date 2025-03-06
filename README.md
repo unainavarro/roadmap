@@ -102,7 +102,15 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 POO</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/02-constructores.md">Constructores</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/03-modificadores_de_acceso.md">Modificadores de acceso</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/04-clases_objetos.md">Clases y objetos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/05-encapsulacion.md">Encapsulación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/06-herencia.md">Herencia</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/07-polimorfismo.md">Polimorfismo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/08-abstraccion.md">Abstracción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/09-paquetes.md">Paquetes</a></li>
   </ul>  
 </details>
 <!-- [FIN]POO -->
@@ -912,7 +920,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
     <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/control-de-flujo">Control de flujo</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/metodos">Métodos</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/arrays">Arrays</a></li>
-    <li><a href="">POO</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/poo">POO</a></li>
     <li><a href="">Clases integradas</a></li>
     <li><a href="">Colecciones</a></li>
     <li><a href="">Lambdas,Stream,Threads,Generic,Recursividad...</a></li>

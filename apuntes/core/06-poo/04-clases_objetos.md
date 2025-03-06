@@ -6,7 +6,7 @@
 - [¿Qué es una clase?](#qué-es-una-clase)
   - [Componentes de una clase](#componentes-de-una-clase)
 - [¿Qué es un objeto?](#qué-es-un-objeto)
-  - [Características de un Objeto](#características-de-un-objeto)
+  - [Características de un objeto](#características-de-un-objeto)
 - [Relación entre clases y objetos](#relación-entre-clases-y-objetos)
 - [Atributos y métodos](#atributos-y-métodos)
   - [Atributos](#atributos)
@@ -59,7 +59,7 @@ public class Coche {
 
 Un objeto es una instancia concreta de una clase. Mientras que la clase es una definición abstracta, el objeto es una entidad real que ocupa memoria y tiene un estado y comportamiento específicos.
 
-### Características de un Objeto
+### Características de un objeto
 
 - **Estado:** Representado por los valores de sus atributos.
 

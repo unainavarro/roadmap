@@ -12,7 +12,7 @@
   - [Herencia simple](#herencia-simple)
   - [Herencia multinivel](#herencia-multinivel)
   - [Jerarquía de herencia](#jerarquía-de-herencia)
-- [Buenas Prácticas con la Herencia](#buenas-prácticas-con-la-herencia)
+- [Buenas prácticas con la herencia](#buenas-prácticas-con-la-herencia)
 - [Ejemplo práctico: sistema de gestión de figuras geométricas](#ejemplo-práctico-sistema-de-gestión-de-figuras-geométricas)
 
 ## Herencia
@@ -170,7 +170,7 @@ public class C extends A {
 }
 ```
 
-## Buenas Prácticas con la Herencia
+## Buenas prácticas con la herencia
 
 - **Usa la herencia para relaciones "es-un":** La herencia debe reflejar una relación de especialización (por ejemplo, un Coche es un Vehiculo).
 

@@ -15,7 +15,7 @@
 - [Llamadas entre constructores](#llamadas-entre-constructores)
 - [Constructores en herencia](#constructores-en-herencia)
 - [Ejemplo práctico: sistema de gestión de empleados](#ejemplo-práctico-sistema-de-gestión-de-empleados)
-- [Buenas Prácticas con Constructores](#buenas-prácticas-con-constructores)
+- [Buenas prácticas con constructores](#buenas-prácticas-con-constructores)
 
 ## ¿Qué es un constructor?
 
@@ -248,7 +248,7 @@ public class Main {
 }
 ```
 
-## Buenas Prácticas con Constructores
+## Buenas prácticas con constructores
 
 - Usa constructores para inicializar todos los atributos importantes de un objeto.
 

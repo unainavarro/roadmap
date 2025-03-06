@@ -8,9 +8,9 @@
 - [Clases abstractas](#clases-abstractas)
   - [Características de las clases abstractas](#características-de-las-clases-abstractas)
 - [Interfaces](#interfaces)
-  - [Características de las Interfaces](#características-de-las-interfaces)
+  - [Características de las interfaces](#características-de-las-interfaces)
 - [Diferencias entre clases abstractas e interfaces](#diferencias-entre-clases-abstractas-e-interfaces)
-- [Buenas Prácticas con la Abstracción](#buenas-prácticas-con-la-abstracción)
+- [Buenas Prácticas con la abstracción](#buenas-prácticas-con-la-abstracción)
 - [Ejemplo práctico: sistema de gestión de vehículos](#ejemplo-práctico-sistema-de-gestión-de-vehículos)
 
 ## Abstracción
@@ -86,7 +86,7 @@ public class Main {
 
 Una interfaz es una colección de métodos abstractos y constantes que definen un contrato que las clases deben cumplir. A diferencia de las clases abstractas, una interfaz no puede contener métodos concretos (aunque desde Java 8, se pueden definir métodos predeterminados y estáticos).
 
-### Características de las Interfaces
+### Características de las interfaces
 
 - **No se pueden instanciar:** Solo se pueden implementar.
 
@@ -144,7 +144,7 @@ public class Main {
 | **Herencia Múltiple**  | No admite herencia múltiple        | Admite herencia múltiple                         |
 | **Uso Principal**      | Para compartir código entre clases | Para definir contratos                           |
 
-## Buenas Prácticas con la Abstracción
+## Buenas Prácticas con la abstracción
 
 - **Usa clases abstractas para compartir código:** Cuando varias clases comparten comportamiento común, define ese comportamiento en una clase abstracta.
 

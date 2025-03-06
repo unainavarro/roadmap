@@ -2,8 +2,8 @@
 
 <h2>📑 Contenido</h2>
 
-- [Programación Orientada a Objetos](#programación-orientada-a-objetos)
-- [Conceptos Básicos de la POO](#conceptos-básicos-de-la-poo)
+- [Programación orientada a objetos](#programación-orientada-a-objetos)
+- [Conceptos básicos de la POO](#conceptos-básicos-de-la-poo)
   - [¿Qué es un objeto?](#qué-es-un-objeto)
   - [¿Qué es una clase?](#qué-es-una-clase)
 - [Pilares de la POO](#pilares-de-la-poo)
@@ -11,18 +11,18 @@
   - [Encapsulamiento](#encapsulamiento)
   - [Herencia](#herencia)
   - [Polimorfismo](#polimorfismo)
-- [Relaciones entre Clases](#relaciones-entre-clases)
+- [Relaciones entre clases](#relaciones-entre-clases)
   - [Asociación](#asociación)
   - [Agregación](#agregación)
   - [Composición](#composición)
-- [Ejemplo Práctico: Sistema de Gestión de Biblioteca](#ejemplo-práctico-sistema-de-gestión-de-biblioteca)
+- [Ejemplo Práctico: sistema de gestión de biblioteca](#ejemplo-práctico-sistema-de-gestión-de-biblioteca)
 - [Buenas prácticas](#buenas-prácticas)
 
-## Programación Orientada a Objetos
+## Programación orientada a objetos
 
 La Programación Orientada a Objetos (POO) es un paradigma de programación que organiza el software en torno a "objetos", los cuales representan entidades del mundo real. Java es un lenguaje que se basa en este paradigma, lo que lo convierte en una herramienta poderosa para desarrollar aplicaciones modulares, reutilizables y fáciles de mantener.
 
-## Conceptos Básicos de la POO
+## Conceptos básicos de la POO
 
 ### ¿Qué es un objeto?
 
@@ -128,7 +128,7 @@ public class Calculadora {
 }
 ```
 
-## Relaciones entre Clases
+## Relaciones entre clases
 
 En la POO, las clases pueden relacionarse de diferentes maneras:
 
@@ -144,7 +144,7 @@ Es una relación "tiene-un" donde un objeto contiene otros objetos, pero estos p
 
 Es una relación más fuerte que la agregación, donde el objeto contenedor es responsable del ciclo de vida del objeto contenido. Por ejemplo, un **Automóvil** tiene un **Motor**.
 
-## Ejemplo Práctico: Sistema de Gestión de Biblioteca
+## Ejemplo Práctico: sistema de gestión de biblioteca
 
 A continuación, presentamos un ejemplo práctico que integra los conceptos de POO en un sistema de gestión de bibliotecas.
 
