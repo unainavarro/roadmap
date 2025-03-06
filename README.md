@@ -111,6 +111,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/07-polimorfismo.md">Polimorfismo</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/08-abstraccion.md">Abstracción</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/09-paquetes.md">Paquetes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/06-poo/10-static.md">Static</a></li>
   </ul>  
 </details>
 <!-- [FIN]POO -->

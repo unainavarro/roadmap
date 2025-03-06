@@ -10,7 +10,7 @@
 - [Interfaces](#interfaces)
   - [Características de las interfaces](#características-de-las-interfaces)
 - [Diferencias entre clases abstractas e interfaces](#diferencias-entre-clases-abstractas-e-interfaces)
-- [Buenas Prácticas con la abstracción](#buenas-prácticas-con-la-abstracción)
+- [Buenas prácticas con la abstracción](#buenas-prácticas-con-la-abstracción)
 - [Ejemplo práctico: sistema de gestión de vehículos](#ejemplo-práctico-sistema-de-gestión-de-vehículos)
 
 ## Abstracción
@@ -92,7 +92,7 @@ Una interfaz es una colección de métodos abstractos y constantes que definen u
 
 - **Todos los métodos son abstractos:** A menos que sean métodos predeterminados o estáticos.
 
-- **Permiten herencia múltiple: **Una clase puede implementar varias interfaces.
+- **Permiten herencia múltiple:** Una clase puede implementar varias interfaces.
 
 ```java
 public interface Sonido {
@@ -144,7 +144,7 @@ public class Main {
 | **Herencia Múltiple**  | No admite herencia múltiple        | Admite herencia múltiple                         |
 | **Uso Principal**      | Para compartir código entre clases | Para definir contratos                           |
 
-## Buenas Prácticas con la abstracción
+## Buenas prácticas con la abstracción
 
 - **Usa clases abstractas para compartir código:** Cuando varias clases comparten comportamiento común, define ese comportamiento en una clase abstracta.
 

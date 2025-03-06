@@ -15,7 +15,7 @@
   - [Asociación](#asociación)
   - [Agregación](#agregación)
   - [Composición](#composición)
-- [Ejemplo Práctico: sistema de gestión de biblioteca](#ejemplo-práctico-sistema-de-gestión-de-biblioteca)
+- [Ejemplo práctico: sistema de gestión de biblioteca](#ejemplo-práctico-sistema-de-gestión-de-biblioteca)
 - [Buenas prácticas](#buenas-prácticas)
 
 ## Programación orientada a objetos
@@ -144,7 +144,7 @@ Es una relación "tiene-un" donde un objeto contiene otros objetos, pero estos p
 
 Es una relación más fuerte que la agregación, donde el objeto contenedor es responsable del ciclo de vida del objeto contenido. Por ejemplo, un **Automóvil** tiene un **Motor**.
 
-## Ejemplo Práctico: sistema de gestión de biblioteca
+## Ejemplo práctico: sistema de gestión de biblioteca
 
 A continuación, presentamos un ejemplo práctico que integra los conceptos de POO en un sistema de gestión de bibliotecas.
 
