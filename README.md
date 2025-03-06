@@ -89,7 +89,11 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Arrays/Matrices</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/05-arrays/01-arrays.md">Arrays</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/05-arrays/02-multidimensional.md">Multidimensional</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/05-arrays/03-clase_array.md">Clase array</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/05-arrays/04-irregulares.md">Array irregulares</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/05-arrays/05-final.md">Array y final</a></li>
   </ul>  
 </details>
 <!-- [FIN]Arrays/Matrices -->
