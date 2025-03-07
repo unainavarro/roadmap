@@ -4,13 +4,13 @@
 
 - [System](#system)
 - [¿Qué es la clase system?](#qué-es-la-clase-system)
-  - [Características de la Clase System](#características-de-la-clase-system)
-- [Métodos Comunes](#métodos-comunes)
+  - [Características](#características)
+- [Métodos comunes](#métodos-comunes)
   - [Entrada y salida estándar](#entrada-y-salida-estándar)
     - [System.out](#systemout)
     - [System.in](#systemin)
     - [System.err](#systemerr)
-  - [Propiedades del Sistema](#propiedades-del-sistema)
+  - [Propiedades del sistema](#propiedades-del-sistema)
     - [System.getProperty(String key)](#systemgetpropertystring-key)
     - [System.setProperty(String key, String value)](#systemsetpropertystring-key-string-value)
   - [Finalización del programa](#finalización-del-programa)
@@ -19,7 +19,7 @@
     - [System.currentTimeMillis()](#systemcurrenttimemillis)
     - [System.nanoTime()](#systemnanotime)
     - [System.gc()](#systemgc)
-- [Buenas Prácticas con la Clase System](#buenas-prácticas-con-la-clase-system)
+- [Buenas prácticas](#buenas-prácticas)
 - [Ejemplo práctico: medición del tiempo de ejecución](#ejemplo-práctico-medición-del-tiempo-de-ejecución)
 
 ## System
@@ -30,7 +30,7 @@ La clase `System` en Java es una clase utilitaria que proporciona acceso a recur
 
 La clase `System` es parte del paquete `java.lang`, por lo que no es necesario importarla manualmente. Contiene métodos estáticos que permiten interactuar con el sistema operativo y el entorno de ejecución de Java.
 
-### Características de la Clase System
+### Características
 
 - **Métodos estáticos:** Todos los métodos de `System` son estáticos, lo que significa que se pueden llamar directamente usando el nombre de la clase.
 
@@ -38,7 +38,7 @@ La clase `System` es parte del paquete `java.lang`, por lo que no es necesario i
 
 - **Finalización del programa:** Permite finalizar la ejecución del programa y gestionar la limpieza de recursos.
 
-## Métodos Comunes
+## Métodos comunes
 
 A continuación, se presentan algunos de los métodos más utilizados de la clase `System`.
 
@@ -79,7 +79,7 @@ System.err.println("¡Esto es un mensaje de error!");
 
 ---
 
-### Propiedades del Sistema
+### Propiedades del sistema
 
 #### System.getProperty(String key)
 
@@ -148,7 +148,7 @@ System.gc();
 System.out.println("Recolección de basura sugerida.");
 ```
 
-## Buenas Prácticas con la Clase System
+## Buenas prácticas
 
 - **Usa System.out para depuración:** Es útil para imprimir mensajes de depuración, pero evita su uso excesivo en producción.
 

@@ -4,15 +4,15 @@
 
 - [Old date](#old-date)
 - [La clase date](#la-clase-date)
-- [Métodos comunes](#métodos-comunes)
+- [Métodos comunes date](#métodos-comunes-date)
 - [La clase calendar](#la-clase-calendar)
-  - [Creación de un Objeto Calendar](#creación-de-un-objeto-calendar)
-  - [Métodos Comunes de Calendar](#métodos-comunes-de-calendar)
+  - [Creación de un objeto calendar](#creación-de-un-objeto-calendar)
+  - [Métodos comunes](#métodos-comunes)
 - [La clase GregorianCalendar](#la-clase-gregoriancalendar)
-  - [Creación de un Objeto GregorianCalendar](#creación-de-un-objeto-gregoriancalendar)
-  - [Métodos Comunes](#métodos-comunes-1)
+  - [Creación de un objeto GregorianCalendar](#creación-de-un-objeto-gregoriancalendar)
+  - [Métodos comunes calendar](#métodos-comunes-calendar)
   - [Ejemplo práctico: calculadora de edad](#ejemplo-práctico-calculadora-de-edad)
-- [Limitaciones de las Clases Antiguas](#limitaciones-de-las-clases-antiguas)
+- [Limitaciones de las clases antiguas](#limitaciones-de-las-clases-antiguas)
 
 ## Old date
 
@@ -42,7 +42,7 @@ public class Main {
 }
 ```
 
-## Métodos comunes
+## Métodos comunes date
 
 - **getTime():** Devuelve el número de milisegundos desde el epoch (1 de enero de 1970).
 
@@ -62,7 +62,7 @@ System.out.println("Fecha1 después que Fecha2: " + fecha1.after(fecha2)); // fa
 
 La clase `Calendar` es una clase abstracta que proporciona métodos para convertir entre un instante en el tiempo y un conjunto de campos de calendario (como año, mes, día, hora, etc.). La clase más comúnmente utilizada que extiende `Calendar` es `GregorianCalendar`.
 
-### Creación de un Objeto Calendar
+### Creación de un objeto calendar
 
 Puedes obtener una instancia de Calendar usando el método `getInstance()`.
 
@@ -77,7 +77,7 @@ public class Main {
 }
 ```
 
-### Métodos Comunes de Calendar
+### Métodos comunes
 
 - **get(int field):** Obtiene el valor de un campo específico (como `Calendar`.`YEAR`, `Calendar`.`MONTH`, etc.).
 
@@ -105,7 +105,7 @@ System.out.println("Fecha modificada: " + calendario.getTime());
 
 `GregorianCalendar` es una implementación concreta de Calendar que representa el calendario gregoriano, que es el calendario utilizado en la mayoría de los países.
 
-### Creación de un Objeto GregorianCalendar
+### Creación de un objeto GregorianCalendar
 
 Puedes crear un objeto `GregorianCalendar` para una fecha específica o usar la fecha y hora actuales.
 
@@ -125,7 +125,7 @@ public class Main {
 }
 ```
 
-### Métodos Comunes
+### Métodos comunes calendar
 
 - **isLeapYear(int year):** Verifica si un año es bisiesto.
 
@@ -163,7 +163,7 @@ public class CalculadoraEdad {
 }
 ```
 
-## Limitaciones de las Clases Antiguas
+## Limitaciones de las clases antiguas
 
 Aunque las clases `Date`, `Calendar` y `GregorianCalendar` son útiles, tienen varias limitaciones:
 

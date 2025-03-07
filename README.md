@@ -120,7 +120,12 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Clases integradas</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/07-clases-integradas/01-string.md">String</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/07-clases-integradas/02-math.md">Math</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/07-clases-integradas/03-system.md">System</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/07-clases-integradas/04-old_date.md">Date</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/07-clases-integradas/05-time.md">Time</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/07-clases-integradas/06-file.md">File</a></li>
   </ul>  
 </details>
 <!-- [FIN]Clases integradas -->
@@ -922,7 +927,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
     <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/metodos">Métodos</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/arrays">Arrays</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/poo">POO</a></li>
-    <li><a href="">Clases integradas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/clases-integradas">Clases integradas</a></li>
     <li><a href="">Colecciones</a></li>
     <li><a href="">Lambdas,Stream,Threads,Generic,Recursividad...</a></li>
     <li><a href="">Bonus</a></li>
