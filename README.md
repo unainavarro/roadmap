@@ -160,7 +160,10 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
       <details>
         <summary>📁 Mapas</summary>
         <ul>
-          <li><a href="">Map</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/03-mapas/01-map.md">Map</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/03-mapas/02-hashmap.md">HashMap</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/03-mapas/03-linkedhasmap.md">LinkedHashMap</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/03-mapas/04-treemap.md">TreeMap</a></li>
         </ul>
       </details>
     </li>
