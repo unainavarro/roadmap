@@ -171,7 +171,9 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
       <details>
         <summary>📁 Colas</summary>
         <ul>
-          <li><a href="">Queue</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/04-colas/01-queue.md">Queue</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/04-colas/02-priorityqueue.md">PriorityQueue</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/04-colas/03-arraydeque.md">ArrayDeque</a></li>
         </ul>
       </details>
     </li>

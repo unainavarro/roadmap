@@ -3,6 +3,11 @@
 <h2>📑 Contenido</h2>
 
 - [PriorityQueue](#priorityqueue)
+- [¿Qué es PriorityQueue?](#qué-es-priorityqueue)
+  - [Características de PriorityQueue](#características-de-priorityqueue)
+- [Probando métodos](#probando-métodos)
+- [Buenas Prácticas](#buenas-prácticas)
+- [Ejemplo práctico: cola de prioridad con objetos personalizados](#ejemplo-práctico-cola-de-prioridad-con-objetos-personalizados)
 
 ## PriorityQueue
 
