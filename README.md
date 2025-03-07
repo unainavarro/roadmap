@@ -138,7 +138,10 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
       <details>
         <summary>📁 Listas</summary>
         <ul>
-          <li><a href="">Array list</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/01-listas/01-arraylist.md">ArrayList</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/01-listas/02-linkedlist.md">LinkedList</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/01-listas/03-vector.md">Vector</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/01-listas/04-stack.md">Stack</a></li>
         </ul>
       </details>
     </li>
@@ -146,7 +149,10 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
       <details>
         <summary>📁 Conjuntos</summary>
         <ul>
-          <li><a href="">Set</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/02-conjuntos/01-set.md">Set</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/02-conjuntos/02-hashset.md">HashSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/02-conjuntos/03-linkedhaset.md">LinkedHashSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/02-conjuntos/04-treeset.md">TreeSet</a></li>
         </ul>
       </details>
     </li>
