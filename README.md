@@ -205,7 +205,13 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Complementando el core</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/01-programacion_funcional.md">Programación funcional</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/02-lambdas.md">Lambdas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/03-stream.md">Streams</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/04-pipes.md">Pipes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/05-hilos.md">Hilos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/06-serializacion.md">Serialización</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/07-anotaciones.md">Anotaciones</a></li>
   </ul>  
 </details>
 <!-- [FIN]Complementando el core -->

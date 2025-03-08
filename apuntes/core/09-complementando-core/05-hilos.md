@@ -3,6 +3,18 @@
 <h2>📑 Contenido</h2>
 
 - [Hilos](#hilos)
+- [¿Qué es un hilo?](#qué-es-un-hilo)
+  - [Hilos vs. Procesos](#hilos-vs-procesos)
+- [Creación de hilos](#creación-de-hilos)
+  - [Extendiendo la clase Thread](#extendiendo-la-clase-thread)
+  - [Implementando la interfaz Runnable](#implementando-la-interfaz-runnable)
+  - [Uso de expresiones lambda](#uso-de-expresiones-lambda)
+- [Estados de un hilo](#estados-de-un-hilo)
+- [Sincronización de hilos](#sincronización-de-hilos)
+  - [Uso de synchronized](#uso-de-synchronized)
+  - [Uso de ReentrantLock](#uso-de-reentrantlock)
+- [Comunicación entre hilos](#comunicación-entre-hilos)
+- [Buenas prácticas](#buenas-prácticas)
 
 ## Hilos
 
