@@ -181,7 +181,10 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
       <details>
         <summary>📁 Colecciones Sincronizadas</summary>
         <ul>
-          <li><a href="">Collections synchronizedList</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/05-sincronizadas/01-colecciones_sincronizadas.md">Colecciones sincronizadas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/05-sincronizadas/02-synchronizedlist.md">Collections synchronizedList</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/05-sincronizadas/03-synchronizedset.md">Collections synchronizedSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/05-sincronizadas/04-synchronizedmap.md">Collections synchronizedMap</a></li>
         </ul>
       </details>
     </li>
@@ -189,22 +192,14 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
       <details>
         <summary>📁 Otros</summary>
         <ul>
-          <li><a href="">BitSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/06-otras/01-bitset.md">BitSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/08-colecciones/06-otras/02-enumset.md">EnumSet</a></li>
         </ul>
       </details>
     </li>
   </ul>
 </details>
 <!-- [FIN]Colecciones -->
-
-<!-- Entrada y Salida (Avanzado) -->
-<details>
-  <summary>📁 Entrada y Salida (Avanzado)</summary>
-  <ul>
-    <li><a href="">Introducción</a></li>
-  </ul>  
-</details>
-<!-- [FIN]Entrada y Salida (Avanzado) -->
 
 <!-- Complementando el core -->
 <details>
