@@ -212,6 +212,8 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/05-hilos.md">Hilos</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/06-serializacion.md">Serialización</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/07-anotaciones.md">Anotaciones</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/08-optional.md">Optional</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/09-complementando-core/09-genericos.md">Genéricos</a></li>
   </ul>  
 </details>
 <!-- [FIN]Complementando el core -->
