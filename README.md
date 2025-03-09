@@ -935,23 +935,9 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 
 ## 🧑‍💻 Ejercicios
 
-### W3resources
+### [W3resources](https://github.com/unainavarro/w3resources)
 
-<!-- Java -->
-<details>
-  <summary>Java</summary>
-  <ul>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/fundamentos">Fundamentos</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/control-de-flujo">Control de flujo</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/metodos">Métodos</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/arrays">Arrays</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/poo">POO</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/tree/main/ejercicios/w3resource/java/clases-integradas">Clases integradas</a></li>
-    <li><a href="">Colecciones</a></li>
-    <li><a href="">Lambdas,Stream,Threads,Generic,Recursividad...</a></li>
-    <li><a href="">Bonus</a></li>
-  </ul>  
-</details>
-<!-- [FIN]Java -->
+- [Java](https://github.com/unainavarro/w3resources/tree/main/java)
+- [SQL]()
 
 ---
