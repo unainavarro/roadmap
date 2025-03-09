@@ -3,7 +3,7 @@
 <h2>📑 Contenido</h2>
 
 - [¿Qué es una Base de datos?](#qué-es-una-base-de-datos)
-- [Breve Historia de las Bases de Datos](#breve-historia-de-las-bases-de-datos)
+- [Breve historia de las bases de datos](#breve-historia-de-las-bases-de-datos)
 - [¿Por qué son importantes las bases de datos?](#por-qué-son-importantes-las-bases-de-datos)
 
 ## ¿Qué es una Base de datos?
@@ -12,7 +12,7 @@ En el mundo actual, donde la información es uno de los activos más valiosos, l
 
 En términos técnicos, una base de datos es un sistema que permite almacenar grandes volúmenes de información de manera estructurada, facilitando su recuperación y manipulación. Estas pueden ser tan simples como una lista de contactos en un teléfono móvil o tan complejas como los sistemas que gestionan millones de transacciones bancarias diarias.
 
-## Breve Historia de las Bases de Datos
+## Breve historia de las bases de datos
 
 El concepto de bases de datos no es nuevo. Desde la antigüedad, los seres humanos han buscado formas de almacenar y organizar información. Sin embargo, el desarrollo de las bases de datos modernas comenzó en la década de 1960, con la llegada de las computadoras.
 

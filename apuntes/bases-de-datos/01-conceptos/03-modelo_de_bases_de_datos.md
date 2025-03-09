@@ -12,22 +12,22 @@
   - [Características principales](#características-principales-1)
   - [Ventajas](#ventajas-1)
   - [Desventajas](#desventajas-1)
-  - [Ejemplos de Sistemas](#ejemplos-de-sistemas-1)
-- [Modelo de Red](#modelo-de-red)
+  - [Ejemplos de sistemas](#ejemplos-de-sistemas-1)
+- [Modelo de red](#modelo-de-red)
   - [Características principales](#características-principales-2)
   - [Ventajas](#ventajas-2)
   - [Desventajas](#desventajas-2)
-  - [Ejemplos de Sistemas](#ejemplos-de-sistemas-2)
-- [Modelo Orientado a objetos](#modelo-orientado-a-objetos)
+  - [Ejemplos de sistemas](#ejemplos-de-sistemas-2)
+- [Modelo orientado a objetos](#modelo-orientado-a-objetos)
   - [Características principales](#características-principales-3)
   - [Ventajas](#ventajas-3)
   - [Desventajas](#desventajas-3)
-  - [Ejemplos de Sistemas](#ejemplos-de-sistemas-3)
+  - [Ejemplos de sistemas](#ejemplos-de-sistemas-3)
 - [Modelos NoSQL](#modelos-nosql)
-  - [Tipos de Modelos NoSQL](#tipos-de-modelos-nosql)
+  - [Tipos de modelos NoSQL](#tipos-de-modelos-nosql)
   - [Ventajas](#ventajas-4)
   - [Desventajas](#desventajas-4)
-  - [Ejemplos de Sistemas](#ejemplos-de-sistemas-4)
+  - [Ejemplos de sistemas](#ejemplos-de-sistemas-4)
 - [Comparación](#comparación)
 
 ## Modelos de bases de datos
@@ -96,11 +96,11 @@ El modelo jerárquico organiza los datos en una estructura de árbol, donde cada
 
 - **Redundancia:** Puede haber duplicación de datos.
 
-### Ejemplos de Sistemas
+### Ejemplos de sistemas
 
 - IBM Information Management System (IMS)
 
-## Modelo de Red
+## Modelo de red
 
 El modelo de red es una extensión del modelo jerárquico que permite relaciones más complejas entre los datos. En este modelo, un registro puede tener múltiples padres, lo que lo hace más flexible.
 
@@ -122,13 +122,13 @@ El modelo de red es una extensión del modelo jerárquico que permite relaciones
 
 - **Rigidez:** Aunque más flexible que el modelo jerárquico, sigue siendo menos flexible que el modelo relacional.
 
-### Ejemplos de Sistemas
+### Ejemplos de sistemas
 
 - Integrated Data Store (IDS)
 
 - IDMS (Integrated Database Management System)
 
-## Modelo Orientado a objetos
+## Modelo orientado a objetos
 
 El modelo orientado a objetos almacena datos en forma de objetos, similares a los utilizados en la programación orientada a objetos. Este modelo es ideal para aplicaciones que manejan datos complejos y requieren un alto grado de flexibilidad.
 
@@ -152,7 +152,7 @@ El modelo orientado a objetos almacena datos en forma de objetos, similares a lo
 
 - **Adopción:** Menos estandarizado y menos utilizado que el modelo relacional.
 
-### Ejemplos de Sistemas
+### Ejemplos de sistemas
 
 - db4o
 
@@ -162,7 +162,7 @@ El modelo orientado a objetos almacena datos en forma de objetos, similares a lo
 
 El modelo NoSQL (Not Only SQL) se utiliza para manejar grandes volúmenes de datos no estructurados o semi-estructurados. Es ideal para aplicaciones que requieren escalabilidad y flexibilidad.
 
-### Tipos de Modelos NoSQL
+### Tipos de modelos NoSQL
 
 - **Documentos:** Almacenan datos en documentos, generalmente en formato JSON o BSON. Ejemplo: MongoDB.
 
@@ -186,7 +186,7 @@ El modelo NoSQL (Not Only SQL) se utiliza para manejar grandes volúmenes de dat
 
 - **Complejidad:** Pueden ser más difíciles de gestionar y consultar que las bases de datos relacionales.
 
-### Ejemplos de Sistemas
+### Ejemplos de sistemas
 
 - MongoDB (Documentos)
 

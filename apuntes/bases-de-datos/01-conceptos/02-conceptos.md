@@ -3,20 +3,20 @@
 <h2>📑 Contenido</h2>
 
 - [Conceptos](#conceptos)
-- [Modelos de Datos](#modelos-de-datos)
-- [Esquema e Instancia](#esquema-e-instancia)
-- [Tablas, Filas y Columnas](#tablas-filas-y-columnas)
-- [Claves y Relaciones](#claves-y-relaciones)
-- [Integridad de los Datos](#integridad-de-los-datos)
+- [Modelos de datos](#modelos-de-datos)
+- [Esquema e instancia](#esquema-e-instancia)
+- [Tablas, filas y columnas](#tablas-filas-y-columnas)
+- [Claves y relaciones](#claves-y-relaciones)
+- [Integridad de los datos](#integridad-de-los-datos)
 - [Normalización](#normalización)
-- [Lenguaje de Consulta Estructurado (SQL)](#lenguaje-de-consulta-estructurado-sql)
-- [Transacciones y Control de Concurrencia](#transacciones-y-control-de-concurrencia)
+- [Lenguaje de consulta estructurado (SQL)](#lenguaje-de-consulta-estructurado-sql)
+- [Transacciones y control de concurrencia](#transacciones-y-control-de-concurrencia)
 
 ## Conceptos
 
 Conceptos fundamentales que forman la base de cualquier sistema de bases de datos. Estos conceptos son esenciales para entender cómo se estructuran, organizan y manipulan los datos en una base de datos.
 
-## Modelos de Datos
+## Modelos de datos
 
 Un modelo de datos es una colección de herramientas conceptuales para describir datos, sus relaciones, su semántica y sus restricciones. Los modelos de datos proporcionan una forma de representar la estructura lógica de una base de datos. Los modelos más comunes incluyen:
 
@@ -30,7 +30,7 @@ Un modelo de datos es una colección de herramientas conceptuales para describir
 
 - **Modelo NoSQL:** Incluye una variedad de modelos, como documentos, grafos, columnas y pares clave-valor, diseñados para manejar datos no estructurados o semi-estructurados.
 
-## Esquema e Instancia
+## Esquema e instancia
 
 - **Esquema:** Es la estructura lógica de la base de datos. Define cómo se organizan los datos, incluyendo tablas, columnas, tipos de datos, relaciones y restricciones. El esquema es como un "plan" o "blueprint" de la base de datos.
 
@@ -44,7 +44,7 @@ Un modelo de datos es una colección de herramientas conceptuales para describir
 
 - **Instancia:** Es el conjunto de datos almacenados en la base de datos en un momento dado. Mientras que el esquema es fijo (a menos que se modifique), la instancia cambia con el tiempo a medida que se insertan, actualizan o eliminan datos.
 
-## Tablas, Filas y Columnas
+## Tablas, filas y columnas
 
 - **Tabla:** Una colección de datos organizados en filas y columnas. Cada tabla representa una entidad (por ejemplo, "Clientes", "Productos").
 
@@ -52,7 +52,7 @@ Un modelo de datos es una colección de herramientas conceptuales para describir
 
 - **Columna (Atributo):** Un campo específico en una tabla que almacena un tipo de dato particular (por ejemplo, "Nombre", "Email").
 
-## Claves y Relaciones
+## Claves y relaciones
 
 - **Clave Primaria (Primary Key):** Un identificador único para cada fila en una tabla. No puede haber dos filas con la misma clave primaria. Ejemplo: `ID` en la tabla `Clientes`.
 
@@ -66,7 +66,7 @@ Un modelo de datos es una colección de herramientas conceptuales para describir
 
   - **Muchos a Muchos:** Múltiples filas en una tabla se relacionan con múltiples filas en otra tabla (requiere una tabla intermedia).
 
-## Integridad de los Datos
+## Integridad de los datos
 
 La integridad de los datos se refiere a la precisión y consistencia de los datos en una base de datos. Se mantiene mediante reglas y restricciones, como:
 
@@ -86,7 +86,7 @@ La normalización es un proceso de diseño de bases de datos que organiza los da
 
 - **Tercera Forma Normal (3NF):** Elimina dependencias transitivas, asegurando que los atributos no clave no dependan de otros atributos no clave.
 
-## Lenguaje de Consulta Estructurado (SQL)
+## Lenguaje de consulta estructurado (SQL)
 
 El SQL (Structured Query Language) es el lenguaje estándar para interactuar con bases de datos relacionales. Permite realizar operaciones como:
 
@@ -105,7 +105,7 @@ El SQL (Structured Query Language) es el lenguaje estándar para interactuar con
 SELECT Nombre, Email FROM Clientes WHERE Ciudad = 'Madrid';
 ```
 
-## Transacciones y Control de Concurrencia
+## Transacciones y control de concurrencia
 
 - **Transacción:** Es una secuencia de operaciones que se ejecutan como una sola unidad de trabajo. Las transacciones deben cumplir con las propiedades ACID:
 

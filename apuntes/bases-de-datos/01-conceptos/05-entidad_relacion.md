@@ -14,7 +14,7 @@
   - [Identificación de relaciones](#identificación-de-relaciones)
   - [Diagrama ER](#diagrama-er)
   - [Cardinalidades](#cardinalidades)
-- [Ventajas del Modelo ER](#ventajas-del-modelo-er)
+- [Ventajas del modelo ER](#ventajas-del-modelo-er)
 
 ## Modelo entidad-relación (ER)
 
@@ -106,7 +106,7 @@ Profesor (id, nombre, departamento)
 
 - Un Curso puede ser impartido por un solo Profesor (1:1).
 
-## Ventajas del Modelo ER
+## Ventajas del modelo ER
 
 - **Claridad:** Facilita la comprensión de la estructura de los datos.
 

@@ -226,7 +226,12 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Conceptos</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/01-conceptos/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/01-conceptos/02-conceptos.md">Conceptos básicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/01-conceptos/03-modelo_de_bases_de_datos.md">Modelo de bases de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/01-conceptos/04-sgbd.md">Sistema de gestión de  bases de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/01-conceptos/05-entidad_relacion.md">Entidad relación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/01-conceptos/06-normalizacion.md">Normalización</a></li>
   </ul>  
 </details>
 <!-- [FIN]Conceptos -->

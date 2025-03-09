@@ -3,12 +3,12 @@
 <h2>📑 Contenido</h2>
 
 - [Sistemas de gestión de bases de datos](#sistemas-de-gestión-de-bases-de-datos)
-- [¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)?](#qué-es-un-sistema-de-gestión-de-bases-de-datos-sgbd)
+- [¿Qué es un sistema de gestión de bases de datos (SGBD)?](#qué-es-un-sistema-de-gestión-de-bases-de-datos-sgbd)
 - [Componentes de un SGBD](#componentes-de-un-sgbd)
   - [Motor de almacenamiento](#motor-de-almacenamiento)
   - [Procesador de consultas](#procesador-de-consultas)
-  - [Lenguaje de Definición de Datos (DDL)](#lenguaje-de-definición-de-datos-ddl)
-  - [Lenguaje de Manipulación de Datos (DML)](#lenguaje-de-manipulación-de-datos-dml)
+  - [Lenguaje de definición de datos (DDL)](#lenguaje-de-definición-de-datos-ddl)
+  - [Lenguaje de manipulación de datos (DML)](#lenguaje-de-manipulación-de-datos-dml)
   - [Módulo de control de concurrencia](#módulo-de-control-de-concurrencia)
   - [Módulo de seguridad](#módulo-de-seguridad)
   - [Módulo de respaldo y recuperación](#módulo-de-respaldo-y-recuperación)
@@ -18,7 +18,7 @@
 
 En el mundo actual, donde los datos son uno de los activos más valiosos, los Sistemas de Gestión de Bases de Datos (SGBD) se han convertido en herramientas esenciales para almacenar, organizar, recuperar y gestionar información de manera eficiente. Un SGBD es un software que actúa como intermediario entre los usuarios, las aplicaciones y la base de datos, permitiendo un manejo estructurado y seguro de los datos.
 
-## ¿Qué es un Sistema de Gestión de Bases de Datos (SGBD)?
+## ¿Qué es un sistema de gestión de bases de datos (SGBD)?
 
 Un Sistema de Gestión de Bases de Datos (SGBD) es un conjunto de programas que permiten crear, mantener y manipular bases de datos de manera eficiente. Su principal objetivo es proporcionar un entorno conveniente y eficaz para almacenar y recuperar información. Algunos ejemplos populares de SGBD son MySQL, Oracle, PostgreSQL, Microsoft SQL Server y MongoDB.
 
@@ -36,11 +36,11 @@ Es el responsable de gestionar cómo se almacenan físicamente los datos en el d
 
 Este componente interpreta las consultas enviadas por los usuarios o aplicaciones, las optimiza y las ejecuta. Transforma las consultas en instrucciones que el motor de almacenamiento puede entender.
 
-### Lenguaje de Definición de Datos (DDL)
+### Lenguaje de definición de datos (DDL)
 
 Permite definir la estructura de la base de datos, incluyendo tablas, índices, vistas y restricciones. Ejemplos de comandos DDL son `CREATE TABLE`, `ALTER TABLE` y `DROP TABLE`.
 
-### Lenguaje de Manipulación de Datos (DML)
+### Lenguaje de manipulación de datos (DML)
 
 Facilita la manipulación de los datos almacenados. Incluye operaciones como `INSERT`, `UPDATE`, `DELETE` y `SELECT`.
 

@@ -12,7 +12,7 @@
   - [Segunda forma normal (2FN)](#segunda-forma-normal-2fn)
   - [Tercera forma normal (3FN)](#tercera-forma-normal-3fn)
   - [Forma normal de Boyce-Codd (FNBC)](#forma-normal-de-boyce-codd-fnbc)
-  - [Cuarta Forma Normal (4FN)](#cuarta-forma-normal-4fn)
+  - [Cuarta forma normal (4FN)](#cuarta-forma-normal-4fn)
 
 ## Normalización
 
@@ -196,7 +196,7 @@ Matriculas:
 
 ---
 
-### Cuarta Forma Normal (4FN)
+### Cuarta forma normal (4FN)
 
 Una tabla está en Cuarta Forma Normal (4FN) si:
 
