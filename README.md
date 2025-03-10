@@ -263,10 +263,11 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Seguridad</summary>
   <ul>
-    <li><a href="">Amenazas comunes</a></li>
-    <li><a href="">Control de acceso</a></li>
-    <li><a href="">Encriptación</a></li>
-    <li><a href="">Respaldo y recuperación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/03-seguridad/01-amenazas_comunes.md">Amenazas comunes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/03-seguridad/02-dise%C3%B1o.md">Seguridad en el Diseño</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/03-seguridad/03-control_de_acceso.md">Control de acceso</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/03-seguridad/04-encriptacion.md">Encriptación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/03-seguridad/05-respaldo_recuperacion.md">Respaldo y recuperación</a></li>
   </ul>  
 </details>
 <!-- [FIN]Seguridad -->

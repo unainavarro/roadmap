@@ -3,6 +3,21 @@
 <h2>📑 Contenido</h2>
 
 - [Encriptación](#encriptación)
+- [Encriptación de Datos en Reposo](#encriptación-de-datos-en-reposo)
+  - [¿Qué son los Datos en Reposo?](#qué-son-los-datos-en-reposo)
+  - [Algoritmos de Encriptación para Datos en Reposo](#algoritmos-de-encriptación-para-datos-en-reposo)
+  - [Implementación de Encriptación en Reposo](#implementación-de-encriptación-en-reposo)
+  - [Buenas Prácticas para datos en reposo](#buenas-prácticas-para-datos-en-reposo)
+- [Encriptación de datos en tránsito](#encriptación-de-datos-en-tránsito)
+  - [¿Qué son los datos en tránsito?](#qué-son-los-datos-en-tránsito)
+  - [Protocolos de encriptación para datos en tránsito](#protocolos-de-encriptación-para-datos-en-tránsito)
+  - [Implementación de SSL/TLS en bases de datos](#implementación-de-ssltls-en-bases-de-datos)
+    - [En MySQL](#en-mysql)
+    - [En PostgreSQL](#en-postgresql)
+  - [Buenas prácticas para datos en tránsito](#buenas-prácticas-para-datos-en-tránsito)
+- [Ejemplo práctico: encriptación integral](#ejemplo-práctico-encriptación-integral)
+  - [Encriptación de Datos en Reposo (AES)](#encriptación-de-datos-en-reposo-aes)
+  - [Encriptación de Datos en Tránsito (SSL/TLS)](#encriptación-de-datos-en-tránsito-ssltls)
 
 ## Encriptación
 
