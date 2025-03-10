@@ -6,7 +6,6 @@
 - [Funciones de ventana (Window Functions)](#funciones-de-ventana-window-functions)
   - [ROW\_NUMBER()](#row_number)
   - [RANK() y DENSE\_RANK()](#rank-y-dense_rank)
-  - [SUM() y AVG() acumulativos](#sum-y-avg-acumulativos)
 - [Funciones de cadena (String Functions)](#funciones-de-cadena-string-functions)
   - [CONCAT()](#concat)
   - [SUBSTRING()](#substring)
@@ -21,6 +20,14 @@
   - [CASE](#case)
   - [COALESCE()](#coalesce)
   - [NULLIF()](#nullif)
+- [Funciones matemáticas](#funciones-matemáticas)
+  - [ABS()](#abs)
+  - [ROUND()](#round)
+  - [CEIL() o CEILING()](#ceil-o-ceiling)
+  - [FLOOR()](#floor)
+  - [STDDEV() y VARIANCE()](#stddev-y-variance)
+  - [SUM() y AVG() acumulativos](#sum-y-avg-acumulativos)
+  - [POWER()](#power)
 - [Buenas prácticas](#buenas-prácticas)
 - [Ejemplos prácticos](#ejemplos-prácticos)
 
@@ -59,18 +66,6 @@ Asignan un rango a las filas, con manejo diferente de empates.
 SELECT nombre, salario,
        RANK() OVER (ORDER BY salario DESC) AS rank,
        DENSE_RANK() OVER (ORDER BY salario DESC) AS dense_rank
-FROM Empleados;
-```
-
----
-
-### SUM() y AVG() acumulativos
-
-Calculan sumas o promedios acumulativos.
-
-```sql
-SELECT nombre, salario,
-       SUM(salario) OVER (ORDER BY fecha_contratacion) AS salario_acumulado
 FROM Empleados;
 ```
 
@@ -205,6 +200,82 @@ Devuelve `NULL` si dos valores son iguales; de lo contrario, devuelve el primer 
 ```sql
 SELECT nombre, NULLIF(salario, 0) AS salario_ajustado
 FROM Empleados;
+```
+
+## Funciones matemáticas
+
+### ABS()
+
+Devuelve el valor absoluto de un número.
+
+```sql
+SELECT ABS(-10) AS valor_absoluto;  -- Resultado: 10
+```
+
+---
+
+### ROUND()
+
+Redondea un número a un número específico de decimales.
+
+```sql
+SELECT ROUND(15.789, 2) AS redondeado;  -- Resultado: 15.79
+```
+
+---
+
+### CEIL() o CEILING()
+
+Redondea un número hacia arriba al entero más cercano.
+
+```sql
+SELECT CEIL(15.2) AS redondeo_hacia_arriba;  -- Resultado: 16
+```
+
+---
+
+### FLOOR()
+
+Redondea un número hacia abajo al entero más cercano.
+
+```sql
+SELECT FLOOR(15.9) AS redondeo_hacia_abajo;  -- Resultado: 15
+```
+
+---
+
+### STDDEV() y VARIANCE()
+
+Calculan la desviación estándar y la varianza de un conjunto de valores.
+
+```sql
+SELECT STDDEV(salario) AS desviacion_estandar, VARIANCE(salario) AS varianza
+FROM Empleados;
+```
+
+### SUM() y AVG() acumulativos
+
+Calculan sumas o promedios acumulativos.
+
+```sql
+-- SUM
+SELECT nombre, salario,
+       SUM(salario) OVER (ORDER BY fecha_contratacion) AS salario_acumulado
+FROM Empleados;
+
+-- AVG
+SELECT AVG(salario) AS salario_promedio
+FROM Empleados;
+```
+
+---
+
+### POWER()
+
+Eleva un número a una potencia específica.
+
+```sql
+SELECT POWER(2, 3) AS potencia;  -- Resultado: 8
 ```
 
 ## Buenas prácticas
