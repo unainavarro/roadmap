@@ -80,7 +80,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/05-this.md">This</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/06-tipos_de_metodos.md">Tipos de métodos</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/07-sobrecarga.md">Sobrecarga</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/08-sobrescritura.md">Sobrescritura</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/core/04-metodos/08-sobrescritura.md">Sobreescritura</a></li>
   </ul>  
 </details>
 <!-- [FIN]Métodos -->
@@ -247,9 +247,9 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/05-dml.md">Lenguaje de manipulación de datos(DML)</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/06-consultas_agregadas.md">Consultas agregadas</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/07-restricciones_de_datos.md">Restricciones de datos</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/08-consultas_de_union.md">Consultas de union</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/08-consultas_de_union.md">Consultas de unión</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/09-subconsultas.md">Subconsultas</a></li>
-    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/10-funciones_avanzadas.md"></a>Funciones</li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/10-funciones_avanzadas.md">Funciones</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/11-vistas.md">Visitas</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/12-indices.md">Índices</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/13-transacciones.md">Transacciones</a></li>
@@ -263,7 +263,10 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 Seguridad</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="">Amenazas comunes</a></li>
+    <li><a href="">Control de acceso</a></li>
+    <li><a href="">Encriptación</a></li>
+    <li><a href="">Respaldo y recuperación</a></li>
   </ul>  
 </details>
 <!-- [FIN]Seguridad -->
