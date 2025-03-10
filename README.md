@@ -240,7 +240,21 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 SQL</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/02-sintaxis.md">Sintaxis básica</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/03-operadores.md">Operadores</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/04-ddl.md">Lenguaje de definición(DDL)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/05-dml.md">Lenguaje de manipulación de datos(DML)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/06-consultas_agregadas.md">Consultas agregadas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/07-restricciones_de_datos.md">Restricciones de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/08-consultas_de_union.md">Consultas de union</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/09-subconsultas.md">Subconsultas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/10-funciones_avanzadas.md"></a>Funciones</li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/11-vistas.md">Visitas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/12-indices.md">Índices</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/13-transacciones.md">Transacciones</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/14-optimizacion.md">Optimización</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/02-sql/15-conceptos_avanzados.md">Conceptos avanzados</a></li>
   </ul>  
 </details>
 <!-- [FIN]SQL -->
