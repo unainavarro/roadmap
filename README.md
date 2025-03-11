@@ -276,7 +276,7 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 JDBC</summary>
   <ul>
-    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/04-jdbc/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/04-jdbc/01-introduccion.md">Introducción JDBC</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/04-jdbc/02-conexion.md">Conexión</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/04-jdbc/03-consultas.md">Consultas</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/04-jdbc/04-consultas_preparadas.md">Consultas preparadas</a></li>
@@ -293,7 +293,9 @@ El objetivo🎯 es cambiar de stack a Java sin perder lo que ya se de front-end.
 <details>
   <summary>📁 ORM</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/05-orm/01-introduccion.md">Introducción ORM</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/05-orm/02-principios_basicos.md">Principios básicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/bases-de-datos/05-orm/03-hibernate.md">Hibernate</a></li>
   </ul>  
 </details>
 <!-- [FIN]ORM -->
