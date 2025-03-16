@@ -7,6 +7,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <h2>🔎Qué encontraras</h3>
 
 - En el apartado de **apuntes** encontraras teoría con ejemplos en formato markdown.
+  - **Modulo-1:** Conceptos básicos, como se dice para ir "haciendo oído".
+  - **Modulo-2:**
+  - **Modulo-3:**
+  - **Modulo-4:**
+  - **Modulo-5:**
 - En **ejercicios**, enlaces a repositorios de ejercicios para reforzar los conceptos de los apuntes.
 
 <h2>📑 Contenido</h2>
