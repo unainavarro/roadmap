@@ -52,7 +52,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Fundamentos de sistemas</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/02-fundamentos-de-sistemas/01-hardware_software.md">Hardware y Software</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/02-fundamentos-de-sistemas/02-sistemas_operativos.md">Sistemas operativos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/02-fundamentos-de-sistemas/03-terminal.md">Introducción a la terminal</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/02-fundamentos-de-sistemas/04-variables_de_entorno.md">Variables de entorno</a></li>
   </ul>  
 </details>
 <!-- [FIN]Fundamentos de sistemas -->
