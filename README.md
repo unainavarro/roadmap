@@ -31,7 +31,19 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Fundamentos de programación</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/02-variables.md">Variables</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/03-tipos_de_datos.md">Tipos de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/04-arrays.md">Arrays</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/05-funciones.md">Funciones</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/06-control_de_flujo.md">Control de flujo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/07-estructura_de_datos.md">Estructura de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/08-algoritmos.md">Algoritmos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/09-lenguajes_de_programacion.md">Lenguajes de programación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/10-niveles.md">Niveles de los lenguajes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/11-tipado.md">Tipado</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/12-conversion.md">Conversion</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/01-fundamentos-de-programacion/13-introduccion_paradigmas.md">Introducción a los paradigmas de programación</a></li>
   </ul>  
 </details>
 <!-- [FIN]Fundamentos de programación -->
