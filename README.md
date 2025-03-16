@@ -86,7 +86,17 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Fundamentos de de la web</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/01-tipos_de_desarrollo.md">Tipos de desarrollo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/02-areas_de_desarrollo_web.md">Áreas de desarrollo web</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/03-navegadores.md">Navegadores</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/04-clientes_servidores.md">Servidores y clientes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/05-http.md">Protocolo HTTP</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/06-cms.md">Sistema de gestión de contenido (CMS)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/07-frameworks.md">Frameworks</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/08-librerias.md">Librerías</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/09-stacks.md">Stacks</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/10-entorno_de_desarrollo_integrado.md">Entorno de desarrollo integrado (IDE)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/04-fundamentos-de-la-web/11-devtools.md">DevTools</a></li>
   </ul>  
 </details>
 <!-- [FIN]Fundamentos de de la web -->
