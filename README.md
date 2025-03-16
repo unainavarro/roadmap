@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi roadmap!
 Este repositorio está diseñado para repasar y mejorar habilidades en front y back a través de una serie de teoría y recursos organizados.
-El objetivo🎯 es hacer un repaso y almacenar los apuntes para reforzar los conceptos.
+El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los conceptos.
 
 <h2>🔎Qué encontraras</h3>
 
