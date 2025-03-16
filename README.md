@@ -64,7 +64,15 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Fundamentos de redes</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/01-modelos_de_referencia.md">Modelos de referencia (OSI)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/02-protocolos_de_red.md">Protocolos de red</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/03-tipos_de_redes.md">Tipos de red</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/04-topologias_de_red.md">Topología de red</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/05-direccionamiento.md">Introducción al direccionamiento IP</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/06-arquitectura_de_red.md">Arquitectura de red</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/07-enrutamiento_conmutacion.md">Protocolos de enrutamiento y conmutación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/08-dispositivos_de_red.md">Dispositivos de red</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-1/03-fundamentos-de-redes/09-internet.md">Internet</a></li>
   </ul>  
 </details>
 <!-- [FIN]Fundamentos de redes -->
