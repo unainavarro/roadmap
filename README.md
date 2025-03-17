@@ -266,7 +266,17 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Fundamentos</summary>
         <ul>
-          <li><a href="">CSS</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/01-introduccion.md">Introducción CSS</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/02-agregar_css.md">Agregar CSS</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/03-selectores.md">Selectores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/04-cascada.md">Cascada</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/05-herencia.md">Herencia</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/06-especificidad.md">Especificidad</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/07-modelo_de_caja.md">Modelo de caja</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/08-posicionamiento.md">Posicionamiento</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/09-capas_visibilidad.md">Capas y visibilidad</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/10-pseudoclases.md">Pseudoclases</a></li>
+          <li><a href=""></a></li>
         </ul>
       </details>
     </li>
