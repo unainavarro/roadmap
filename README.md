@@ -111,7 +111,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Fundamentos</summary>
         <ul>
-          <li><a href="">HTML</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/01-fundamentos/01-introduccion.md">HTML</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/01-fundamentos/02-etiquetas.md">Etiquetas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/01-fundamentos/03-atributos.md">Atributos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/01-fundamentos/04-elementos.md">Elementos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/01-fundamentos/05-comportamiento.md">Comportamiento</a></li>
         </ul>
       </details>
     </li>
