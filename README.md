@@ -245,7 +245,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Buenas practicas</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/04-buenas-practicas/01-semanticos.md">Elementos semánticos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/04-buenas-practicas/02-aria.md">Aria</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/04-buenas-practicas/03-tabindex.md">Tabindex</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/04-buenas-practicas/04-data_attributes.md">Data attribute</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/04-buenas-practicas/05-seo.md">SEO</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/04-buenas-practicas/06-emmet.md">Emmet</a></li>
         </ul>
       </details>
     </li>
