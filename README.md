@@ -135,7 +135,78 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Elementos</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li>
+            <details>
+              <summary>📁 Textos</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Enlaces</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Listas</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Tablas</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Formularios</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Imágenes</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Audio y video</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Interactivas</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>📁 Objetos externos</summary>
+              <ul>
+                <li><a href="">CSS</a></li>
+              </ul>
+            </details>
+          </li>
         </ul>
       </details>
     </li>
