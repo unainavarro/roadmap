@@ -139,7 +139,13 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Textos</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/01-encabezados.md">Encabezados</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/02-parrafos.md">Párrafos</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/03-formato.md">Formato</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/04-direccion_de_texto.md">Dirección de texto</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/05-informacion.md">Información</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/06-acronimos_entidades.md">Acrónimos y entidades</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/01-textos/07-texto_maquina.md">Texto maquina</a></li>
               </ul>
             </details>
           </li>
@@ -147,7 +153,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Enlaces</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/02-enlaces/01-rutas.md">Rutas</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/02-enlaces/02-internos_externos.md">Internos y externos</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/02-enlaces/03-ancla.md">Ancla</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/02-enlaces/04-fragmentos.md">Fragmentos</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/02-enlaces/05-interactivos.md">Interactivos</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/02-enlaces/06-base.md">Base</a></li>
               </ul>
             </details>
           </li>
@@ -155,7 +166,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Listas</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/03-listas/01-ordenadas.md">Ordenadas</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/03-listas/02-desordenadas.md">Desordenadas</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/03-listas/03-definiciones.md">Definiciones</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/03-listas/04-anidadas.md">Anidadas</a></li>
               </ul>
             </details>
           </li>
@@ -163,7 +177,8 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Tablas</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/04-tablas/01-basica.md">Básicas</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/04-tablas/02-semantica.md">Semánticas</a></li>
               </ul>
             </details>
           </li>
@@ -171,7 +186,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Formularios</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/05-formularios/01-form.md">Forms</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/05-formularios/02-input.md">Input</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/05-formularios/03-control_de_opciones.md">Control de opciones</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/05-formularios/04-controles.md">Controles</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/05-formularios/05-validacion.md">Validaciones</a></li>
               </ul>
             </details>
           </li>
@@ -179,7 +198,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Imágenes</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/06-imagenes/01-img.md">Imágenes</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/06-imagenes/02-carga.md">Carga de imágenes</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/06-imagenes/03-figure.md">Figure</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/06-imagenes/04-picture.md">Picture</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/06-imagenes/05-map.md">Map</a></li>
               </ul>
             </details>
           </li>
@@ -187,7 +210,9 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Audio y video</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/07-audio-video/01-audio.md">Audio</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/07-audio-video/02-videos.md">Videos</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/07-audio-video/03-track.md">Track</a></li>
               </ul>
             </details>
           </li>
@@ -195,7 +220,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Interactivas</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/08-interactivas/01-despegables.md">Despegables</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/08-interactivas/02-pop_up.md">Pop-up</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/08-interactivas/03-svg.md">SVG</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/08-interactivas/04-mix.md">Mix</a></li>
               </ul>
             </details>
           </li>
@@ -203,7 +231,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
             <details>
               <summary>📁 Objetos externos</summary>
               <ul>
-                <li><a href="">CSS</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/09-objetos-externos/01-object.md">Object</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/09-objetos-externos/02-iframe.md">Iframes</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/09-objetos-externos/03-embed.md">Embed</a></li>
+                <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/03-elementos/09-objetos-externos/04-templates.md">Templates</a></li>
               </ul>
             </details>
           </li>
