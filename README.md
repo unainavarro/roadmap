@@ -276,7 +276,17 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
           <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/08-posicionamiento.md">Posicionamiento</a></li>
           <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/09-capas_visibilidad.md">Capas y visibilidad</a></li>
           <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/10-pseudoclases.md">Pseudoclases</a></li>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/11-pseudoelementos.md">Pseudoelementos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/12-unidades.md">Unidades de medida</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/13-fuentes.md">Fuentes</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/14-colores.md">Colores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/15-degradados.md">Degradados</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/16-sombras.md">Sombras</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/17-variables.md">Variables</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/18-funciones.md">Funciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/19-nesting.md">Nesting</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/20-navegadores.md">Navegadores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/01-fundamentos/21-reglas_de_arroba.md">Reglas de arroba</a></li>
         </ul>
       </details>
     </li>

@@ -1,4 +1,4 @@
-<h1 align="center">Reglas de Arroba</h1>
+<h1 align="center">Reglas de arroba</h1>
 
 <h2>📑 Contenido</h2>
 
