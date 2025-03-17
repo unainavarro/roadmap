@@ -123,7 +123,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Cabecera</summary>
         <ul>
-          <li><a href="">Head</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/02-cabeceras/01-head.md">Head</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/02-cabeceras/02-meta.md">Meta</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/02-cabeceras/03-link.md">Link</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/02-cabeceras/04-script.md">Script</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/01-html/02-cabeceras/05-favicon.md">Favicon</a></li>
         </ul>
       </details>
     </li>
