@@ -292,57 +292,17 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
     </li>
     <li>
       <details>
-        <summary>📁 Tipos</summary>
+        <summary>📁 Flexbox</summary>
         <ul>
-          <li><a href="">Head</a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Colores</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Fondos</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Tipografías</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Selectores</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Bases de layout</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Flex</summary>
-        <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/01-introduccion.md">Flexbox</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/02-flujo_de_flexbox.md">Flujo de flexbox</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/03-eje_principal.md">Eje principal</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/04-eje_transversal.md">Eje transversal</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/05-tama%C3%B1o_hijos.md">Tamaño hijos(items)</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/06-mover_hijos.md">Mover hijos(items)</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/07-ordenar_hijos.md">Ordenar hijos(items)</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/08-wrap.md">Wrap</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/02-flexbox/09-gap.md">Gap</a></li>
         </ul>
       </details>
     </li>
@@ -356,7 +316,7 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
     </li>
     <li>
       <details>
-        <summary>📁 Diseño adaptativo</summary>
+        <summary>📁 Responsive</summary>
         <ul>
           <li><a href=""></a></li>
         </ul>
@@ -364,7 +324,7 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
     </li>
     <li>
       <details>
-        <summary>📁 Efectos</summary>
+        <summary>📁 Animaciones y Filtros</summary>
         <ul>
           <li><a href=""></a></li>
         </ul>
@@ -372,15 +332,7 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
     </li>
     <li>
       <details>
-        <summary>📁 Animaciones</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Metodologías y buenas practicas</summary>
+        <summary>📁 Enfoques</summary>
         <ul>
           <li><a href=""></a></li>
         </ul>
