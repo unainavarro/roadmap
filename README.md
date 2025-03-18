@@ -324,7 +324,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Responsive</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/04-responsive/01-introduccion.md">Diseño web responsive</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/04-responsive/02-media_queries.md">Media queries</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/04-responsive/03-container_queries.md">Container queries</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/04-responsive/04-multicolumn.md">Multicolumn</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/04-responsive/05-float.md">Float</a></li>
         </ul>
       </details>
     </li>
@@ -347,31 +351,6 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
   </ul>
 </details>
 <!-- [FIN]CSS -->
-
-<!-- Diseño -->
-<details>
-  <summary>📁 Diseño(básico)</summary>
-  <ul>
-    <li>
-      <details>
-        <summary>📁 Fundamentos</summary>
-        <ul>
-          <li><a href="">CSS</a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Tipos</summary>
-        <ul>
-          <li><a href="">Head</a></li>
-        </ul>
-      </details>
-    </li>
-    
-  </ul>
-</details>
-<!-- [FIN]Diseño -->
 
 <!-- Tailwind -->
 <details>
