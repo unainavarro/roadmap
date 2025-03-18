@@ -336,7 +336,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Animaciones y Filtros</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/05-animaciones-filtros/01-transiciones.md">Transiciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/05-animaciones-filtros/02-animaciones.md">Animaciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/05-animaciones-filtros/03-transformaciones.md">Transformaciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/05-animaciones-filtros/04-scroll.md">Scroll</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/05-animaciones-filtros/05-filtros.md">Filtros</a></li>
         </ul>
       </details>
     </li>
