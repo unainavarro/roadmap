@@ -348,7 +348,13 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Enfoques</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/01-introduccion.md">Enfoque de desarrollo</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/02-mobile_desktop_first.md">Mobile first y desktop first</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/03-enfoque_modular.md">Enfoque modular</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/04-bem.md">BEM</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/05-utility_first.md">Utility first</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/06-atomic_design.md">Atomic design</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/06-enfoque-de-desarrollo/07-emmet.md">Emmet</a></li>
         </ul>
       </details>
     </li>
