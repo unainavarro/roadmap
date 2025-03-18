@@ -310,7 +310,13 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Grid</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/01-introduccion.md">Grid</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/02-explicito.md">Explicito</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/03-implicito.md">Implícito</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/04-lineas.md">Líneas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/05-areas.md">Áreas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/06-autofill_autofit.md">Auto-fill y auto-fit</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/02-css/03-grid/07-mover_items.md">Mover item</a></li>
         </ul>
       </details>
     </li>
