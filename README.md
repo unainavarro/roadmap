@@ -386,7 +386,7 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
   <ul>
     <li>
       <details>
-        <summary>📁 Introducción</summary>
+        <summary>📁 Conceptos</summary>
         <ul>
           <li><a href=""></a></li>
         </ul>
