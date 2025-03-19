@@ -366,7 +366,14 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Tailwind</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/02-instalacion_configuracion.md">Instalación y configuración</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/03-conceptos_basicos.md">Conceptos básicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/04-estilos_basicos.md">Estilos básicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/05-componentes_layouts.md">Componentes y layouts</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/06-estados.md">Estados</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/07-plugins.md">Plugins</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-2/03-tailwind/08-optimizacion.md">Optimización</a></li>
   </ul>  
 </details>
 <!-- [FIN]Tailwind -->
