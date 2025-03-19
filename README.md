@@ -388,7 +388,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Conceptos</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/01-javascript.md">JavaScript</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/02-entornos.md">Entornos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/03-motores.md">Motores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/04-agregar_enlazar.md">Agregar o enlazar</a></li>
         </ul>
       </details>
     </li>
@@ -396,7 +399,14 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Sintaxis bases</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/01-expresiones_declaraciones.md">Expresiones y declaraciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/02-variables.md">Variables</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/03-vida_scope_hoisting.md">Vida, scope y hoisting</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/04-tipos_de_datos.md">Tipos de datos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/05-operadores.md">Operadores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/06-conversion.md">Conversion</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/07-feedback.md">Feedback básicos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/08-sintaxis.md">Sintaxis</a></li>
         </ul>
       </details>
     </li>
