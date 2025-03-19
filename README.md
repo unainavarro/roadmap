@@ -414,7 +414,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Control de flujo</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/01-control_de_flujo.md">Control de flujo</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/02-condicionales.md">Condicionales</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/03-bucles.md">Bucles</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/04-continue_break_label.md">Continues, break y label</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/05-excepciones.md">Excepciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/06-depuracion.md">Depuración</a></li>
         </ul>
       </details>
     </li>
