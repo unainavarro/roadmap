@@ -10,7 +10,7 @@
   - [Manejo seguro de errores](#manejo-seguro-de-errores)
   - [Registro y monitoreo](#registro-y-monitoreo)
 - [Protección contra ataques comunes (SQL Injection, XSS, CSRF)](#protección-contra-ataques-comunes-sql-injection-xss-csrf)
-  - [SQL Injection:](#sql-injection)
+  - [SQL injection](#sql-injection)
   - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
   - [Cross-Site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
 
@@ -54,7 +54,7 @@ Implementa límites en la cantidad de solicitudes que un cliente puede hacer en 
 
 Las APIs son vulnerables a varios tipos de ataques. A continuación, se describen los más comunes y cómo protegerse contra ellos:
 
-### SQL Injection:
+### SQL injection
 
 Ocurre cuando un atacante inserta código SQL malicioso en una consulta, permitiéndole acceder o manipular la base de datos.
 

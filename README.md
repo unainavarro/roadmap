@@ -643,7 +643,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 APIs</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/03-api/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/03-api/02-conceptos_basicos.md">Conceptos básicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/03-api/03-enpoints.md">Endpoints</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/03-api/04-creacion.md">Creación</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/03-api/05-consumo.md">Consumo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/03-api/06-seguridad.md">Seguridad</a></li>
   </ul>  
 </details>
 <!-- [FIN]APIs -->
