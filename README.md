@@ -578,7 +578,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 BOM</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/01-bom/01-bom.md">BOM</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/01-bom/02-window.md">Window</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/01-bom/03-screen.md">Screen</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/01-bom/04-location.md">Location</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/01-bom/05-history.md">History</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/01-bom/06-navigator.md">Navigator</a></li>
         </ul>
       </details>
     </li>
@@ -586,7 +591,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 DOM</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/02-dom/01-dom.md">DOM</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/02-dom/02-nodos.md">Nodos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/02-dom/03-html.md">HTML</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/02-dom/04-css.md">CSS</a></li>
         </ul>
       </details>
     </li>
@@ -594,7 +602,15 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Eventos</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/01-manejar_eventos.md">Manejar eventos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/02-controladores_de_eventos.md">Controladores de eventos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/03-objetos_de_eventos.md">Objetos de eventos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/04-propagacion.md">Propagación</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/05-propiedad_target.md">Propiedad target</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/06-acciones_predeterminadas.md">Acciones predeterminadas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/07-debouncing.md">Debouncing</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/08-carga_de_eventos.md">Carga de eventos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/03-eventos/09-delegacion_de_eventos.md">Delegación de eventos</a></li>
         </ul>
       </details>
     </li>
@@ -602,7 +618,9 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Formularios</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/04-formularios/01-formularios.md">Formularios</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/04-formularios/02-validaciones.md">Validaciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/04-formularios/03-forms_api.md">Forms API</a></li>
         </ul>
       </details>
     </li>
@@ -610,7 +628,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Almacenamiento</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/05-almacenamiento/01-localstorage.md">Local Storage</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/05-almacenamiento/02-cookies%20.md">Cookies</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/05-almacenamiento/03-dataset.md">DataSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/02-javascript-web/05-almacenamiento/04-indexdb.md">IndexDB</a></li>
         </ul>
       </details>
     </li>
