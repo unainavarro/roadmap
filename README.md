@@ -388,10 +388,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Conceptos</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/01-javascript.md">JavaScript</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/02-entornos.md">Entornos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/03-motores.md">Motores</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/01-conceptos/04-agregar_enlazar.md">Agregar o enlazar</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/01-conceptos/01-javascript.md">JavaScript</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/01-conceptos/02-entornos.md">Entornos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/01-conceptos/03-motores.md">Motores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/01-conceptos/04-agregar_enlazar.md">Agregar o enlazar</a></li>
         </ul>
       </details>
     </li>
@@ -399,14 +399,14 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Sintaxis bases</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/01-expresiones_declaraciones.md">Expresiones y declaraciones</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/02-variables.md">Variables</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/03-vida_scope_hoisting.md">Vida, scope y hoisting</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/04-tipos_de_datos.md">Tipos de datos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/05-operadores.md">Operadores</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/06-conversion.md">Conversion</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/07-feedback.md">Feedback básicos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/02-sintaxis-bases/08-sintaxis.md">Sintaxis</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/01-expresiones_declaraciones.md">Expresiones y declaraciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/02-variables.md">Variables</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/03-vida_scope_hoisting.md">Vida, scope y hoisting</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/04-tipos_de_datos.md">Tipos de datos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/05-operadores.md">Operadores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/06-conversion.md">Conversion</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/07-feedback.md">Feedback básicos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/02-sintaxis-bases/08-sintaxis.md">Sintaxis</a></li>
         </ul>
       </details>
     </li>
@@ -414,12 +414,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Control de flujo</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/01-control_de_flujo.md">Control de flujo</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/02-condicionales.md">Condicionales</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/03-bucles.md">Bucles</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/04-continue_break_label.md">Continues, break y label</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/05-excepciones.md">Excepciones</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/03-control-de-flujo/06-depuracion.md">Depuración</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/03-control-de-flujo/01-control_de_flujo.md">Control de flujo</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/03-control-de-flujo/02-condicionales.md">Condicionales</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/03-control-de-flujo/03-bucles.md">Bucles</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/03-control-de-flujo/04-continue_break_label.md">Continues, break y label</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/03-control-de-flujo/05-excepciones.md">Excepciones</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/03-control-de-flujo/06-depuracion.md">Depuración</a></li>
         </ul>
       </details>
     </li>
@@ -427,17 +427,17 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Funciones</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/01-funciones_declaradas.md">Funciones declaradas</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/02-funciones_expresadas.md">Funciones expresadas</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/03-funciones_flecha.md">Funciones flecha</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/04-funciones_anonimas.md">Funciones anónimas</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/05-funciones_autoejecutadas.md">Funciones autoejecutables</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/06-funciones_primera_clase.md">Funciones primera clase</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/07-funciones_integradas.md">Funciones integradas</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/08-funciones_orden_superior.md">Funciones orden superior</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/09-funciones_puras.md">Funciones puras</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/10-funciones_recursivas.md">Funciones recursivas</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/04-funciones/11-conceptos_claves.md">Conceptos claves</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/01-funciones_declaradas.md">Funciones declaradas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/02-funciones_expresadas.md">Funciones expresadas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/03-funciones_flecha.md">Funciones flecha</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/04-funciones_anonimas.md">Funciones anónimas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/05-funciones_autoejecutadas.md">Funciones autoejecutables</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/06-funciones_primera_clase.md">Funciones primera clase</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/07-funciones_integradas.md">Funciones integradas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/08-funciones_orden_superior.md">Funciones orden superior</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/09-funciones_puras.md">Funciones puras</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/10-funciones_recursivas.md">Funciones recursivas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/04-funciones/11-conceptos_claves.md">Conceptos claves</a></li>
         </ul>
       </details>
     </li>
@@ -445,13 +445,13 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Objetos</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/01-objetos.md">Objetos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/02-propiedades.md">Propiedades</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/03-metodos.md">Métodos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/04-metodos_predefinidos.md">Métodos predefinidos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/05-iterar_objetos.md">Iterar objetos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/06-prototipos_herencia.md">Prototipos herencia</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/05-objetos/07-mutabilidad.md">Mutabilidad</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/01-objetos.md">Objetos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/02-propiedades.md">Propiedades</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/03-metodos.md">Métodos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/04-metodos_predefinidos.md">Métodos predefinidos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/05-iterar_objetos.md">Iterar objetos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/06-prototipos_herencia.md">Prototipos herencia</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/05-objetos/07-mutabilidad.md">Mutabilidad</a></li>
         </ul>
       </details>
     </li>
@@ -459,12 +459,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Objetos incorporados</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/06-objetos-incorporados/01-strings.md">Strings</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/06-objetos-incorporados/02-number.md">Numbers</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/06-objetos-incorporados/03-math.md">Math</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/06-objetos-incorporados/04-date.md">Date</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/06-objetos-incorporados/05-temporal.md">Temporal</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/06-objetos-incorporados/06-error.md">Error</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/06-objetos-incorporados/01-strings.md">Strings</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/06-objetos-incorporados/02-number.md">Numbers</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/06-objetos-incorporados/03-math.md">Math</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/06-objetos-incorporados/04-date.md">Date</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/06-objetos-incorporados/05-temporal.md">Temporal</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/06-objetos-incorporados/06-error.md">Error</a></li>
         </ul>
       </details>
     </li>
@@ -472,14 +472,14 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Array</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/01-arrays.md">Arrays</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/02-metodos_acceso.md">Métodos de acceso</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/03-metodos_modificacion.md">Métodos modificadores</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/04-metodos_iteradores.md">Métodos iteradores</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/05-metodos_creacion.md">Métodos de creación</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/06-metodos_busqueda.md">Métodos de búsqueda</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/07-metodos_ordenamiento.md">Métodos ordenamiento</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/07-arrays/08-metodos_combinacion.md">Métodos combinación</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/01-arrays.md">Arrays</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/02-metodos_acceso.md">Métodos de acceso</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/03-metodos_modificacion.md">Métodos modificadores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/04-metodos_iteradores.md">Métodos iteradores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/05-metodos_creacion.md">Métodos de creación</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/06-metodos_busqueda.md">Métodos de búsqueda</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/07-metodos_ordenamiento.md">Métodos ordenamiento</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/07-arrays/08-metodos_combinacion.md">Métodos combinación</a></li>
         </ul>
       </details>
     </li>
@@ -487,10 +487,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Map y Set</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/08-map_set/01-map.md">Map</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/08-map_set/02-weakmap.md">WeakMap</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/08-map_set/03-set.md">Set</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/08-map_set/04-weakset.md">WeakSet</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/08-map_set/01-map.md">Map</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/08-map_set/02-weakmap.md">WeakMap</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/08-map_set/03-set.md">Set</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/08-map_set/04-weakset.md">WeakSet</a></li>
         </ul>
       </details>
     </li>
@@ -498,10 +498,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 JSON</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/09-json/01-json.md">JSON</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/09-json/02-conversion.md">Conversion</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/09-json/03-casos_uso.md">Casos de uso</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/09-json/04-seguridad.md">Seguridad</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/09-json/01-json.md">JSON</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/09-json/02-conversion.md">Conversion</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/09-json/03-casos_uso.md">Casos de uso</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/09-json/04-seguridad.md">Seguridad</a></li>
         </ul>
       </details>
     </li>
@@ -509,11 +509,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Manipular datos</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/10-manipular-datos/01-rest_spread.md">Rest y spread</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/10-manipular-datos/02-destructuracion.md">Desestructuración</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/10-manipular-datos/03-conversion_casting.md">Conversion y casting</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/10-manipular-datos/04-this.md">This</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/10-manipular-datos/05-binding_explicito.md">Binding</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/10-manipular-datos/01-rest_spread.md">Rest y spread</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/10-manipular-datos/02-destructuracion.md">Desestructuración</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/10-manipular-datos/03-conversion_casting.md">Conversion y casting</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/10-manipular-datos/04-this.md">This</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/10-manipular-datos/05-binding_explicito.md">Binding</a></li>
         </ul>
       </details>
     </li>
@@ -521,13 +521,13 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Asincronía</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/01-asincronia.md">Asincronía</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/02-ciclo_concurrencia.md">Ciclo concurrencia</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/03-timeout_interval_clear.md">TimeOut, interval y clear</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/04-callback.md">Callback</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/05-promise.md">Promises</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/06-async_await.md">Async/Await</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/11-asincronia/07-ajax.md">Ajax</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/01-asincronia.md">Asincronía</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/02-ciclo_concurrencia.md">Ciclo concurrencia</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/03-timeout_interval_clear.md">TimeOut, interval y clear</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/04-callback.md">Callback</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/05-promise.md">Promises</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/06-async_await.md">Async/Await</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/11-asincronia/07-ajax.md">Ajax</a></li>
         </ul>
       </details>
     </li>
@@ -535,8 +535,8 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 APIs</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/12-apis/01-introduccion.md">Introducción</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/12-apis/02-fetch.md">Fetch</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/12-apis/01-introduccion.md">Introducción</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/12-apis/02-fetch.md">Fetch</a></li>
         </ul>
       </details>
     </li>
@@ -544,10 +544,10 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Módulos</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/13-modulos/01-modulos.md">Módulos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/13-modulos/02-uso.md">Casos prácticos</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/13-modulos/03-modulo_es.md">Módulos ES (ECMAScript)</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/13-modulos/04-modulo_commonjs.md">Módulo CommonJS</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/13-modulos/01-modulos.md">Módulos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/13-modulos/02-uso.md">Casos prácticos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/13-modulos/03-modulo_es.md">Módulos ES (ECMAScript)</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/13-modulos/04-modulo_commonjs.md">Módulo CommonJS</a></li>
         </ul>
       </details>
     </li>
@@ -555,14 +555,14 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
       <details>
         <summary>📁 Expresiones regulares</summary>
         <ul>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/01-regexp.md">Expresiones regulares</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/02-caracteres.md">Caracteres</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/03-cuantificadores.md">Cuantificadores</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/04-agrupacion_referencias.md">Agrupación y referencias</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/05-alternancia.md">Alternancia</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/06-banderas.md">Banderas</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/07-anclas_limites.md">Anclas y limites</a></li>
-          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript/14-expresiones_regulares/08-metodos.md">Métodos</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/01-regexp.md">Expresiones regulares</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/02-caracteres.md">Caracteres</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/03-cuantificadores.md">Cuantificadores</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/04-agrupacion_referencias.md">Agrupación y referencias</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/05-alternancia.md">Alternancia</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/06-banderas.md">Banderas</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/07-anclas_limites.md">Anclas y limites</a></li>
+          <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/01-javascript-core/14-expresiones_regulares/08-metodos.md">Métodos</a></li>
         </ul>
       </details>
     </li>
