@@ -671,7 +671,21 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 TypeScript</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/01-introduccion.md">TypeScript</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/02-tipos_primitivos.md">Tipos primitivos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/03-tipos_objetos.md">Tipos de objetos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/04-tipos_afirmaciones.md">Afirmaciones (assertions)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/05-tipos_combinaciones.md">Combinación de tipos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/06-tipos_guard_narrowing.md">Type guards y narrowing</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/07-funciones.md">Funciones</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/08-interfaces.md">Interfaces</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/09-clases.md">Clases</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/10-genericos.md">Genéricos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/11-decoradores.md">Decoradores</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/12-tipos_utilidad.md">Utility types</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/13-tipos_avanzados.md">Tipos avanzados</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/14-modulos.md">Módulos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/05-typescript/15-ecosistema.md">Ecosistemas</a></li>
   </ul>  
 </details>
 <!-- [FIN]TypeScript -->

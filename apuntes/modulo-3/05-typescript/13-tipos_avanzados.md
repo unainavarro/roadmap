@@ -1,4 +1,4 @@
-<h1 align="center">Tipos Avanzados</h1>
+<h1 align="center">Tipos avanzados</h1>
 
 <h2>📑 Contenido</h2>
 

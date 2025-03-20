@@ -6,6 +6,8 @@
 - [Tipos de decoradores](#tipos-de-decoradores)
   - [Decoradores de clase](#decoradores-de-clase)
   - [Decoradores de método](#decoradores-de-método)
+  - [Decoradores de parámetro](#decoradores-de-parámetro)
+- [Ejemplo práctico](#ejemplo-práctico)
 
 ## Decoradores
 
@@ -78,4 +80,63 @@ class MiClase {
     return `Hola, ${nombre}`;
   }
 }
+```
+
+### Decoradores de parámetro
+
+Se aplican a los parámetros de un método para manipular o registrar datos de los mismos.
+
+```typescript
+function decoradorDeParametro(
+  target: any,
+  propertyKey: string,
+  parameterIndex: number
+) {
+  console.log(
+    `Parámetro decorado: ${propertyKey}, posición: ${parameterIndex}`
+  );
+}
+
+class MiClase {
+  saludar(@decoradorDeParametro mensaje: string) {
+    console.log(mensaje);
+  }
+}
+```
+
+## Ejemplo práctico
+
+```typescript
+function Authenticated(
+  target: any,
+  propertyKey: string,
+  descriptor: PropertyDescriptor
+) {
+  const metodoOriginal = descriptor.value;
+  descriptor.value = function (...args: any[]) {
+    if (!this.isLoggedIn) {
+      throw new Error("Usuario no autenticado");
+    }
+    return metodoOriginal.apply(this, args);
+  };
+}
+
+class Usuario {
+  isLoggedIn = false;
+
+  @Authenticated
+  accederDashboard() {
+    console.log("Accediendo al dashboard...");
+  }
+}
+
+const usuario = new Usuario();
+try {
+  usuario.accederDashboard(); // Lanza un error porque isLoggedIn es false
+} catch (error) {
+  console.error(error.message);
+}
+
+usuario.isLoggedIn = true;
+usuario.accederDashboard(); // Accede correctamente
 ```
