@@ -694,6 +694,14 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 React</summary>
   <ul>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/01-introduccion.md">React</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/02-configuracion.md">Configuración del entorno</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/03-conceptos_basicos.md">Conceptos básicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/04-manejo_de_estados.md">Manejo de estado</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/05-efectos_hooks.md">Efectos y hooks</a></li>
+    <li><a href="">Introducción</a></li>
+    <li><a href="">Introducción</a></li>
+    <li><a href="">Introducción</a></li>
     <li><a href="">Introducción</a></li>
   </ul>  
 </details>

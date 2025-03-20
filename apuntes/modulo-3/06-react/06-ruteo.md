@@ -1,4 +1,4 @@
-<h1 align="center">Ruteo en React</h1>
+<h1 align="center">Ruteo</h1>
 
 <h2>📑 Contenido</h2>
 

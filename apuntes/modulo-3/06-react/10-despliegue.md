@@ -1,4 +1,4 @@
-<h1 align="center">Despliegue de aplicaciones React</h1>
+<h1 align="center">Despliegue de aplicaciones</h1>
 
 <h2>📑 Contenido</h2>
 

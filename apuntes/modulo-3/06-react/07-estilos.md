@@ -1,4 +1,4 @@
-<h1 align="center">Estilos en React</h1>
+<h1 align="center">Estilos</h1>
 
 <h2>📑 Contenido</h2>
 

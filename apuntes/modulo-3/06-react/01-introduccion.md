@@ -1,4 +1,4 @@
-<h1 align="center">Introducción a React</h1>
+<h1 align="center">React</h1>
 
 <h2>📑 Contenido</h2>
 

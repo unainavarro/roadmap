@@ -1,4 +1,4 @@
-<h1 align="center">Conceptos básicos de React</h1>
+<h1 align="center">Conceptos básicos</h1>
 
 <h2>📑 Contenido</h2>
 
