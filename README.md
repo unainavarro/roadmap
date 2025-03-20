@@ -699,10 +699,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/03-conceptos_basicos.md">Conceptos básicos</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/04-manejo_de_estados.md">Manejo de estado</a></li>
     <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/05-efectos_hooks.md">Efectos y hooks</a></li>
-    <li><a href="">Introducción</a></li>
-    <li><a href="">Introducción</a></li>
-    <li><a href="">Introducción</a></li>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/06-ruteo.md">Ruteo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/07-estilos.md">Estilos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/08-manejo_de_datos.md">Manejo de datos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/09-optimizacion.md">Optimización y buenas prácticas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/06-react/10-despliegue.md">Despliegue de aplicaciones</a></li>
   </ul>  
 </details>
 <!-- [FIN]React -->
