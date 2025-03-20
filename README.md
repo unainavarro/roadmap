@@ -657,7 +657,12 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Gestor de paquetes</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/04-gestor-de-paquetes/01-introduccion.md">Gestores de paquetes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/04-gestor-de-paquetes/02-tipos.md">Tipos de gestores de paquetes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/04-gestor-de-paquetes/03-instalacion_configuracion.md">Instalación y configuración</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/04-gestor-de-paquetes/04-conceptos_basicos.md">Conceptos básicos (enfoque en npm)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/04-gestor-de-paquetes/05-gestion_de_dependencias.md">Gestión de Dependencias (enfoque en npm)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-3/04-gestor-de-paquetes/06-scripts.md">Scripts y automatización (enfoque en npm)</a></li>
   </ul>  
 </details>
 <!-- [FIN]Gestor de paquetes -->
