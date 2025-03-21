@@ -1035,7 +1035,16 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Paradigmas de programación</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/01-imperativa.md">Programación imperativa</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/02-declarativa.md">Programación declarativa</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/03-funcional.md">Programación funcional</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/04-orientada_a_objetos.md">Programación orientada a objetos (OOP - POO)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/05-logica.md">Programación lógica</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/06-basada_en_componentes.md">Programación basada en componentes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/07-concurrente.md">Programación concurrente</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/08-reactiva.md">Programación reactiva</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/09-basada_en_eventos.md">Programación basada en eventos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/01-paradigmas-de-programacion/10-aspecto-orientada.md">Programación aspecto-orientada (AOP)</a></li>
   </ul>  
 </details>
 <!-- [FIN]Paradigmas de programación -->
@@ -1044,7 +1053,16 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Modelos / Metodologías</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/01-modelos_metodologias.md">Modelos y metodologías</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/02-modelo_en_cascada.md">Modelo en cascada</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/03-modelo_en_v.md">Modelo en V</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/04-modelo_incremental.md">Modelo incremental</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/05-modelo_interactivo.md">Modelo interactivo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/06-modelo_espiral.md">Modelo espiral</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/07-agile.md">Agile</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/08-scrum.md">SCRUM</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/09-kanban.md">Kanban</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/02-modelos-metodologias/10-extreme_programming.md">Extreme programming</a></li>
   </ul>  
 </details>
 <!-- [FIN]Modelos / Metodologías -->
@@ -1053,7 +1071,11 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Patrones de diseño</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/03-patrones-de-dise%C3%B1o/01-creacion.md">Patrones creacionales</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/03-patrones-de-dise%C3%B1o/02-estructurales.md">Patrones estructurales</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/03-patrones-de-dise%C3%B1o/03-comportamiento.md">Patrones de comportamiento</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/03-patrones-de-dise%C3%B1o/04-arquitectonicos.md">Patrones arquitectónicos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/03-patrones-de-dise%C3%B1o/05-concurrencia.md">Patrones de concurrencia</a></li>
   </ul>  
 </details>
 <!-- [FIN]Patrones de diseño -->
@@ -1062,19 +1084,31 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Arquitectura de software</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/01-arquitectura_de_software.md">Arquitectura de software</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/02-modelo_vista_controlador.md">Modelo Vista Controlador</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/03-arquitectura_monolitica.md">Arquitectura monolítica</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/04-arquitectura_en_capas.md">Arquitectura en capas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/05-arquitectura_cliente_servidor.md">Arquitectura cliente-servidor</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/06-arquitectura_microservicios.md">Arquitectura de microservicios</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/07-arquitectura_soa.md">Arquitectura orientada a servicios (SOA)</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/08-arquitectura_en_n_capas.md">Arquitectura en N capas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/09-arquitectura_evento_driven.md">Arquitectura de evento-driven</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/10-arquitectura_capas_hexagonal.md">Arquitectura de capas hexagonal</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/11-arquitectura_basada_en_componentes.md">Arquitectura basada en componentes</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/04-arquitectura-de-software/12-arquitectura_en_la_nube.md">Arquitectura de computación en la nube</a></li>
   </ul>  
 </details>
 <!-- [FIN]Arquitectura de software -->
 
-<!-- Despliegue -->
+<!-- Solid y clean code -->
 <details>
-  <summary>📁 Despliegue</summary>
+  <summary>📁 Solid y clean code</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/05-principios-solid-clean-code/01-principios_solid.md">Principios SOLID</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/modulo-5/05-principios-solid-clean-code/02-clean_code.md">Clean Code</a></li>
   </ul>  
 </details>
-<!-- [FIN]Despliegue -->
+<!-- [FIN]Solid y clean code -->
 
 ## Herramientas Complementarias
 
