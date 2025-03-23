@@ -995,23 +995,7 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
   <ul>
     <li>
       <details>
-        <summary>📁 Fundamentos</summary>
-        <ul>
-          <li><a href="">HTML</a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Cabecera</summary>
-        <ul>
-          <li><a href="">Head</a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Elementos</summary>
+        <summary>📁 </summary>
         <ul>
           <li><a href=""></a></li>
         </ul>
@@ -1019,7 +1003,23 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
     </li>
     <li>
       <details>
-        <summary>📁 Buenas practicas</summary>
+        <summary>📁 </summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 </summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 </summary>
         <ul>
           <li><a href=""></a></li>
         </ul>
@@ -1116,44 +1116,28 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Control de versiones</summary>
   <ul>
-    <li>
-      <details>
-        <summary>📁 Fundamentos</summary>
-        <ul>
-          <li><a href="">HTML</a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Cabecera</summary>
-        <ul>
-          <li><a href="">Head</a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Elementos</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>📁 Buenas practicas</summary>
-        <ul>
-          <li><a href=""></a></li>
-        </ul>
-      </details>
-    </li>
-  </ul>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+  </ul>  
 </details>
 <!-- [FIN]Control de versiones -->
-
-<br>
-<br>
 <br>
 <br>
 <br>
