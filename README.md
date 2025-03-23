@@ -2,16 +2,16 @@
 
 ¡Bienvenido/a a mi roadmap!
 Este repositorio está diseñado para repasar y mejorar habilidades en front y back a través de una serie de teoría y recursos organizados.
-El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los conceptos.
+El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los **conceptos**. En version web: [code-path](https://code-path.netlify.app/)
 
 <h2>🔎Qué encontraras</h3>
 
 - En el apartado de **apuntes** encontraras teoría con ejemplos en formato markdown.
   - **Módulo-1:** Conceptos básicos, como se dice para ir "haciendo oído".
-  - **Módulo-2:**
-  - **Módulo-3:**
-  - **Módulo-4:**
-  - **Módulo-5:**
+  - **Módulo-2:** Conceptos para maquetar y diseñar.
+  - **Módulo-3:** Conceptos de lenguajes y herramientas para el front-end de la web.
+  - **Módulo-4:** Conceptos para el back-end.
+  - **Módulo-5:** Conceptos relacionados con la programación que se salen del "core" de los lenguajes.
 - En **ejercicios**, enlaces a repositorios de ejercicios para reforzar los conceptos de los apuntes.
 
 <h2>📑 Contenido</h2>
@@ -24,7 +24,7 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
   - [Módulo - 5 (Profundizando)](#módulo---5-profundizando)
   - [Herramientas Complementarias](#herramientas-complementarias)
 - [🧑‍💻 Ejercicios](#-ejercicios)
-  - [W3resources](#w3resources)
+  - [Roadmap sh](#roadmap-sh)
 
 ---
 
@@ -1116,25 +1116,25 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 <details>
   <summary>📁 Control de versiones</summary>
   <ul>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/02-git.md">Git</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/03-github.md">GitHub</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/04-areas_de_trabajo.md">Áreas de trabajo</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/05-repositorios.md">Repositorios</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/06-estados.md">Estados</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/07-commits.md">Commits</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/08-commits_operaciones.md">Operaciones con commits</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/09-remoto.md">Remoto</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/10-ramas.md">Ramas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/11-etiquetas.md">Etiquetas</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/12-versiones.md">Versiones</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/13-gitignore.md">Gitignore</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/14-pull_request.md">Pull request</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/15-issues_milestone_labels.md">Issues, Milestone y Labels</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/16-forks.md">Forks</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/17-seguridad.md">Seguridad</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/18-conflictos.md">Conflictos</a></li>
+    <li><a href="https://github.com/unainavarro/roadmap/blob/main/apuntes/herramientas-complementarias/01-control-de-versiones/19-operaciones_basicas.md">Operaciones básicas</a></li>
   </ul>  
 </details>
 <!-- [FIN]Control de versiones -->
@@ -1144,9 +1144,8 @@ El objetivo🎯 es hacer un **repaso** y almacenar los apuntes para reforzar los
 
 # 🧑‍💻 Ejercicios
 
-## [W3resources](https://github.com/unainavarro/w3resources)
+## [Roadmap sh](https://roadmap.sh/)
 
-- [Java]()
-- [SQL]()
+- [Mis soluciones](https://github.com/unainavarro/roadmap.sh-projects)
 
 ---
